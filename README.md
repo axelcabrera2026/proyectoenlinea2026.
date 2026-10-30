@@ -6,7 +6,8 @@ que se estara evaluado constantemente.
 
 1. creacion del repositorio
 2. creación del readme
-
+3. subir el sitio shopfine
+4. 4.personalizar encabezado
 
 
 
