@@ -29,8 +29,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Software Punto de Venta" content="">
-    <meta name="Luis Marquez y Manuel Peñaloza" content="">
-    <title>Inicio | DELTA</title>
+    <meta name="samuel cabrera y axel avila" content="">
+    <title>Inicio | shopfine</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -75,7 +75,7 @@
 					<div class="col-sm-4">
 						<div class="logo pull-left">
 							<a href="index.php"><img src="images/home/logo.png" alt="" width="35%" height="25%" /></a>
-			<H3>Proyecto de:Luis marquez y Manuel peñaloza </H3>
+			<H3>Proyecto de:samuel cabrera y axel avila </H3>
 			<H4>3ero Programacion Vespert </H4>
 						</div>						
 					</div>
